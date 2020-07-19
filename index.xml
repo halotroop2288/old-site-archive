@@ -6,9 +6,78 @@
     <description>Recent content on Caroline&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://halotroop.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ARR-Checker Mod</title>
+      <link>https://halotroop.com/posts/arrchecker/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/arrchecker/</guid>
+      <description>ARR-Checker is a simple Fabric mod which checks the license metadata of other mods in your Minecraft instance to make sure every single one is open-source.
+If ARR-Checker finds a mod which is not open-licensed, it will print information about it to the console. That&amp;rsquo;s it! It doesn&amp;rsquo;t do anything else.
+This might be useful to you if you want to create a mod-pack that only includes open-license mods.
+This mod requires Fabric API which you can download HERE</description>
+    </item>
+    
+    <item>
+      <title>Art Gallery</title>
+      <link>https://halotroop.com/posts/art-gallery/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/art-gallery/</guid>
+      <description>This is a gallery of images of my fursona, Caroline. Enjoy!
+Art by Zaezar Art by FelisRandomis Art by VI Felian The avatar shown on the left side of this website was created by VI Felian, aka Parasyminus. He is the artist that I most recommend, if you are looking for any for yourself!
+Here is the full version of it: Coming soon More art coming soon, which is not currently available for me to add to this site.</description>
+    </item>
+    
+    <item>
+      <title>Basuoland</title>
+      <link>https://halotroop.com/posts/basuoland/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/basuoland/</guid>
+      <description>Basuoland is an idea for a game I had a long time ago. I&amp;rsquo;ve always wanted to be a game developer, and this was my first attempt at creating one. I started using RPG Maker VX Ace, which was really fun! It helped me develop stories for my characters, Caroline, Violet, and Ashley (my fictional family).
+Characters (cont. from Fursona: My First Game)
+This wasn&amp;rsquo;t too much of a problem for the game though, because I had been thinking up two more characters for years.</description>
+    </item>
+    
+    <item>
+      <title>Caroline&#39;s Personal Bio</title>
+      <link>https://halotroop.com/posts/bio/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/bio/</guid>
+      <description>If you are not fully supportive of trans people, or have anything against furries, then leave this site immediately. You are not welcome here, or on my social media!
+Otherwise, welcome! Feel free to read on!
+Hi, I&amp;rsquo;m Caroline! I&amp;rsquo;m a non-binary trans woman who makes Minecraft mods, professionally tests video games, and (tries) to make them.
+My pronouns are She/Her, or They/Their/Them. But I&amp;rsquo;d prefer if you&amp;rsquo;d just not refer to me indirectly, where possible.</description>
+    </item>
+    
+    <item>
+      <title>Mo&#39; Creatures</title>
+      <link>https://halotroop.com/posts/mocreatures/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/mocreatures/</guid>
+      <description>Mo&amp;rsquo; Creatures is a mod by Dr. Zhark, which has had its source code released under an open license recently. I plan to port this mod to Fabric Mod Loader when I&amp;rsquo;m done with More Creeps Refabricated.
+You can download the original mod HERE.
+You can view the source code for my fork (when it&amp;rsquo;s released) HERE.</description>
+    </item>
+    
+    <item>
+      <title>More Creeps and Weirdos Refabricated</title>
+      <link>https://halotroop.com/posts/morecreeps/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/morecreeps/</guid>
+      <description>More Creeps and Weirdos Refabricated is an in-progress recreation of the classic Minecraft mod More Creeps and Weirdos, for Fabric Mod Loader. Please check it out, if you haven&amp;rsquo;t already!
+The source code is not public, for this project, unfortunately.
+According to the license terms included with the original mod, creating modified versions for personal use is OK, but redistributing them is not. I would like to stay on good terms with the author, so I am going to allow him to review it first, and ask him for permission to release it.</description>
+    </item>
     
   </channel>
 </rss>
