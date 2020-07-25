@@ -1,4 +1,148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Caroline&#39;s Blog</title><link>https://halotroop.com/posts/</link><description>Recent content in Posts on Caroline&#39;s Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://halotroop.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Caroline&#39;s Personal Bio</title><link>https://halotroop.com/posts/bio/</link><pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate><guid>https://halotroop.com/posts/bio/</guid><description>If you are not fully supportive of trans people, or have anything against furries, then leave this site immediately. You are not welcome here, or on my social media!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Caroline&#39;s Blog</title>
+    <link>https://halotroop.com/posts/</link>
+    <description>Recent content in Posts on Caroline&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://halotroop.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TEST</title>
+      <link>https://halotroop.com/posts/test/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARR-Checker Mod</title>
+      <link>https://halotroop.com/posts/arrchecker/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/arrchecker/</guid>
+      <description>ARR-Checker is a simple Fabric mod which checks the license metadata of other mods in your Minecraft instance to make sure every single one is open-source.
+If ARR-Checker finds a mod which is not open-licensed, it will print information about it to the console. That&amp;rsquo;s it! It doesn&amp;rsquo;t do anything else.
+This might be useful to you if you want to create a mod-pack that only includes open-license mods.
+This mod requires Fabric API which you can download HERE</description>
+    </item>
+    
+    <item>
+      <title>Art Gallery</title>
+      <link>https://halotroop.com/posts/art-gallery/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/art-gallery/</guid>
+      <description>This is a gallery of images of my fursona, Caroline. Enjoy!
+Art by Zaezar Art by FelisRandomis Art by VI Felian The avatar shown on this website (left on desktop, top on mobile) was created by VI Felian, aka Parasyminus. He is the artist that I most recommend, if you are looking for any for yourself!
+Here is the full version of it: Coming soon More art coming soon, which is not currently available for me to add to this site.</description>
+    </item>
+    
+    <item>
+      <title>Basuoland</title>
+      <link>https://halotroop.com/posts/basuoland/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/basuoland/</guid>
+      <description>Basuoland is an idea for a game I had a long time ago. I&amp;rsquo;ve always wanted to be a game developer, and this was my first attempt at creating one. I started using RPG Maker VX Ace, which was really fun! It helped me develop stories for my characters, Caroline, Violet, and Ashley (my fictional family).
+Characters (cont. from Fursona: My First Game)
+This wasn&amp;rsquo;t too much of a problem for the game though, because I had been thinking up two more characters for years.</description>
+    </item>
+    
+    <item>
+      <title>Caroline (Fursona)</title>
+      <link>https://halotroop.com/posts/fursona/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/fursona/</guid>
+      <description>Caroline is my fursona. If you didn&amp;rsquo;t know, I&amp;rsquo;m a furry. And you can read about what that is at WhatAreFurries.com.
+TL;DR, I like animals that stand upright like Bugs Bunny. (Anthropomorphic animals, or &amp;ldquo;anthros&amp;rdquo; for short.)
+A fursona is one&amp;rsquo;s anthropomorphic counterpart, their main &amp;ldquo;OC&amp;rdquo; (original character), the one that best represents their real-life identity. (There is always discourse about this definition, but it&amp;rsquo;s the one I believe in and live by.</description>
+    </item>
+    
+    <item>
+      <title>Caroline&#39;s Personal Bio</title>
+      <link>https://halotroop.com/posts/bio/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/bio/</guid>
+      <description>If you are not fully supportive of trans people, or have anything against furries, then leave this site immediately. You are not welcome here, or on my social media!
 Otherwise, welcome! Feel free to read on!
 Hi, I&amp;rsquo;m Caroline! I&amp;rsquo;m a non-binary trans woman who makes Minecraft mods, professionally tests video games, and (tries) to make them.
-My pronouns are She/Her, or They/Their/Them. But I&amp;rsquo;d prefer if you&amp;rsquo;d just not refer to me indirectly, where possible.</description></item></channel></rss>
+My pronouns are She/Her, or They/Their/Them. But I&amp;rsquo;d prefer if you&amp;rsquo;d just not refer to me indirectly, where possible.</description>
+    </item>
+    
+    <item>
+      <title>Ex-Features Mod</title>
+      <link>https://halotroop.com/posts/ex-features/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/ex-features/</guid>
+      <description>Ex-Features is (was) an attempt at re-adding all the removed features, and console/Bedrock Edition-exclusive features.
+I got as far as adding some paintings, some blocks, and a (poorly implemented) recreation of the classic title screen before I gave up on it. This was one of my earliest projects using the Fabric toolchain.
+Download the mod, for *Minecraft version 1.15.2* HERE.
+Check out the source code HERE
+You&amp;rsquo;ll need to use Fabric Mod Loader and Fabric API to make it work.</description>
+    </item>
+    
+    <item>
+      <title>Fabricators&#39; Construct</title>
+      <link>https://halotroop.com/posts/fconstruct/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/fconstruct/</guid>
+      <description>Fabricators&amp;rsquo; Construct is an attempt at rewriting the mod Tinkers Construct for Fabric Mod Loader, managed by my organization, halotroop.
+The project is on hold at the moment.
+You can view the source code HERE.
+(There are no screenshots to show, unfortunately. Please check out the original mod, Tinkers&amp;rsquo; Construct!)</description>
+    </item>
+    
+    <item>
+      <title>LiteCraft</title>
+      <link>https://halotroop.com/posts/litecraft/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/litecraft/</guid>
+      <description>LiteCraft is an in-progress, but currently on-hold project to create a Minecraft-style sandbox game that is fully friendly to modders, and welcomes new features being added to the main game.
+Background LiteCraft as an idea was born out of observed necessity. The Minecraft modding community has a lot of disagreements over what is the best way to do something, but a lot of us agree on one thing: We could probably do better than Mojang themselves.</description>
+    </item>
+    
+    <item>
+      <title>Minecraft Servers</title>
+      <link>https://halotroop.com/posts/minecraft/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/minecraft/</guid>
+      <description>Sometimes I host Minecraft servers from my computer. If I am currently hosting, they can usually be reached at mc.halotroop.com and mod.halotroop.com
+To join my gaming Discord server, click HERE</description>
+    </item>
+    
+    <item>
+      <title>Mo&#39; Creatures</title>
+      <link>https://halotroop.com/posts/mocreatures/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/mocreatures/</guid>
+      <description>Mo&amp;rsquo; Creatures is a mod by Dr. Zhark, which has had its source code released under an open license recently. I plan to port this mod to Fabric Mod Loader when I&amp;rsquo;m done with More Creeps Refabricated.
+You can download the original mod HERE.
+You can view the source code for my fork (when it&amp;rsquo;s released) HERE.</description>
+    </item>
+    
+    <item>
+      <title>More Creeps and Weirdos Refabricated</title>
+      <link>https://halotroop.com/posts/morecreeps/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://halotroop.com/posts/morecreeps/</guid>
+      <description>More Creeps and Weirdos Refabricated is an in-progress recreation of the classic Minecraft mod More Creeps and Weirdos, for Fabric Mod Loader. Please check it out, if you haven&amp;rsquo;t already!
+The source code is not public, for this project, unfortunately.
+According to the license terms included with the original mod, creating modified versions for personal use is OK, but redistributing them is not. I would like to stay on good terms with the author, so I am going to allow him to review it first, and ask him for permission to release it.</description>
+    </item>
+    
+  </channel>
+</rss>
